@@ -1,4 +1,4 @@
-token="462395003:AAGN352LYtFBsI6pEGwpyssvRmB61Spct2I"
+token=""--توكنك
 if [ ! -f ./tg/tgcli ]; then
     echo "tg not found"
     echo "Run $0 install"
